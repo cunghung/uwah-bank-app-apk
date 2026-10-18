@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
+  "versionCode": 3,
+  "versionName": "1.2",
   "url": "https://raw.githubusercontent.com/cunghung/uwah-bank-app-apk/main/uwah-bank-app.apk",
-  "note": "首頁顯示公司／個人餘額；每筆改成編輯（類別、已補進去、備註）"
+  "note": "支出可以選「對應的存回」：挑是哪一筆存入補回來的，一筆存入可對多筆支出"
 }
