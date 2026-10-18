@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
+  "versionCode": 4,
+  "versionName": "1.3",
   "url": "https://raw.githubusercontent.com/cunghung/uwah-bank-app-apk/main/uwah-bank-app.apk",
-  "note": "支出可以選「對應的存回」：挑是哪一筆存入補回來的，一筆存入可對多筆支出"
+  "note": "修好「第一次更新打開允許安裝後沒反應」：回來會自動接著裝；支出可選對應的存回"
 }
