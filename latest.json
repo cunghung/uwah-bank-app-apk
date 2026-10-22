@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
+  "versionCode": 7,
+  "versionName": "1.6",
   "url": "https://raw.githubusercontent.com/cunghung/uwah-bank-app-apk/main/uwah-bank-app.apk",
-  "note": "新功能：華南 App「帳戶明細」截圖就能匯入（📷 截圖），不用再去網銀下載 PDF。這版比較大（約 35MB），建議用 Wi-Fi 更新"
+  "note": "明細可以刪除；對完的帳不再消失，改顯示綠色勾；截圖匯入前先讓你挑要存哪幾筆"
 }
