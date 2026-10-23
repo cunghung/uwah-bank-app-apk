@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
+  "versionCode": 8,
+  "versionName": "1.7",
   "url": "https://raw.githubusercontent.com/cunghung/uwah-bank-app-apk/main/uwah-bank-app.apk",
-  "note": "明細可以刪除；對完的帳不再消失，改顯示綠色勾；截圖匯入前先讓你挑要存哪幾筆"
+  "note": "長按一筆明細可以選取，一次勾多筆再刪除（有全選）；刪掉的不會被重新匯入"
 }
