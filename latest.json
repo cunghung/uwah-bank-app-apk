@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7",
+  "versionCode": 9,
+  "versionName": "1.8",
   "url": "https://raw.githubusercontent.com/cunghung/uwah-bank-app-apk/main/uwah-bank-app.apk",
-  "note": "長按一筆明細可以選取，一次勾多筆再刪除（有全選）；刪掉的不會被重新匯入"
+  "note": "修正：更新下載好之後，回到 App 會自動跳出安裝畫面"
 }
