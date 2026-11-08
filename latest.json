@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
+  "versionCode": 10,
+  "versionName": "1.9",
   "url": "https://raw.githubusercontent.com/cunghung/uwah-bank-app-apk/main/uwah-bank-app.apk",
-  "note": "修正：更新下載好之後，回到 App 會自動跳出安裝畫面"
+  "note": "新功能：可以跟電腦版華南對帳同步（選單 ⋯ → 跟電腦同步）"
 }
